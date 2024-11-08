@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav od Matije Vidovića");
+            Console.WriteLine("Pozdrav od Matije Vidovića (broj indexa 123456789)");
         }
     }
 }
